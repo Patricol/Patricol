@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Please visit [my website](https://patricol.co) for a more detailed profile.
+
 <!--
 **Patricol/Patricol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
